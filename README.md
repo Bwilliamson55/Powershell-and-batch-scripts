@@ -103,3 +103,8 @@ Scans the network for active PCs, and then tests them to see who is logged on
 # YesNoMenu
 This is a good example of how to do a simple yes/no menu in powershell
 
+# WindowsPowerShell
+This is my powershell profiles folder. You can copy this to C:\Users\YOU\Documents if you do not already have a profile. \
+These profile files are a good example of how you can make your powershell life at work more enjoyable. \
+Encorporating a good mix of fun and useful scripts as well as often used modules. \
+There is a little how-to ps1 I made in here as well to help you create/find your profiles.
